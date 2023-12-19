@@ -1,0 +1,14 @@
+{
+  "name": "github-search-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --watch --env-file=.env main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "octokit": "^3.1.2"
+  }
+}
